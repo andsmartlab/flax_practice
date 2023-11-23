@@ -19,8 +19,21 @@
    - 1Activity1ViewModel
    - Actionへの値request、Store値の購読
 
-# API（非同期）
+# API処理
+
 1. Kotlin コルーチン
    - 非同期実行するコードを簡略化
-   - [公式サイト](https://developer.android.com/kotlin/coroutines?hl=ja)
+   - [公式ref](https://developer.android.com/kotlin/coroutines?hl=ja)
+
+2. Kotlin serialization
+   - APIレスポンスのjsonをparseする
+   - [公式ref](https://kotlinlang.org/docs/serialization.html#example-json-serialization)
+
+# DB/値保存
+
+1. realm
+   - 実装予定
+
+2. SharedPreference
+   - DB保存に向かない分
 
