@@ -18,3 +18,9 @@
 5. ViewModel
    - 1Activity1ViewModel
    - Actionへの値request、Store値の購読
+
+# API（非同期）
+1. Kotlin コルーチン
+   - 非同期実行するコードを簡略化
+   - [公式サイト](https://developer.android.com/kotlin/coroutines?hl=ja)
+
