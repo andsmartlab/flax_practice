@@ -37,3 +37,6 @@
 2. SharedPreference
    - DB保存に向かない分
 
+# その他バージョン管理
+1. Kotlin release
+   - https://kotlinlang.org/docs/releases.html#release-details
