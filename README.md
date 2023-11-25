@@ -25,12 +25,15 @@
    - 非同期実行するコードを簡略化
    - [公式ref](https://developer.android.com/kotlin/coroutines?hl=ja)
 
-2. Kotlin serialization
+2. Retrofit2
+   - API通信の実装
+   - Retrofit2-moshi-converterでjson Parseする？
+
+3. Kotlin serialization
    - APIレスポンスのjsonをparseする
    - [公式ref](https://kotlinlang.org/docs/serialization.html#example-json-serialization)
 
-3. Retrofit2
-   - API通信の実装
+
 
 # DB/値保存
 
