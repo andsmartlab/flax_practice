@@ -29,6 +29,9 @@
    - APIレスポンスのjsonをparseする
    - [公式ref](https://kotlinlang.org/docs/serialization.html#example-json-serialization)
 
+3. Retrofit2
+   - API通信の実装
+
 # DB/値保存
 
 1. realm
